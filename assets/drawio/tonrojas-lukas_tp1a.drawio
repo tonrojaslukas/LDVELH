@@ -1,0 +1,153 @@
+<mxfile host="65bd71144e">
+    <diagram name="Page-1" id="CMmT7Ky3YqOd8BDu9Ugx">
+        <mxGraphModel dx="1511" dy="2018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="oOupR8y01HN1Jpf1lOlq-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oOupR8y01HN1Jpf1lOlq-2" target="oOupR8y01HN1Jpf1lOlq-14" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="oOupR8y01HN1Jpf1lOlq-2" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;LA FORÊT&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Vous êtes en forêt lorsque vous apercevez une demeure en ruine.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="-60" width="250" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="oOupR8y01HN1Jpf1lOlq-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oOupR8y01HN1Jpf1lOlq-3" target="oOupR8y01HN1Jpf1lOlq-31" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="oOupR8y01HN1Jpf1lOlq-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oOupR8y01HN1Jpf1lOlq-3" target="oOupR8y01HN1Jpf1lOlq-30" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="oOupR8y01HN1Jpf1lOlq-3" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;LE BRIGAND&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Vous continuer votre petite marche en forêt. Vous tombez sur un brigand&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="507.5" y="475" width="245" height="95" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="oOupR8y01HN1Jpf1lOlq-4" target="20" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="oOupR8y01HN1Jpf1lOlq-4" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;LE PIÈGE&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Votre piège fonctionne avec succès et vous achevez l&#39;orc avec facilité&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="130" y="690" width="210" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="oOupR8y01HN1Jpf1lOlq-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oOupR8y01HN1Jpf1lOlq-5" target="oOupR8y01HN1Jpf1lOlq-9" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="940" y="720"/>
+                            <mxPoint x="940" y="290"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="oOupR8y01HN1Jpf1lOlq-5" value="&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-size: 18px; background-color: transparent;&quot;&gt;FUITE&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-size: 18px; background-color: transparent;&quot;&gt;Vous prenez vos jambes à votre cou et courrez vers la demeure en ruine&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="660" y="690" width="250" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" style="edgeStyle=none;html=1;" parent="1" source="oOupR8y01HN1Jpf1lOlq-6" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-19.999999999999773" y="835" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="oOupR8y01HN1Jpf1lOlq-6" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;DÉFAITE&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Vous avez surestimé vos capacités&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;et vous êtes aller tout droit vers votre mort&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-125" y="690" width="210" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oOupR8y01HN1Jpf1lOlq-7" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="oOupR8y01HN1Jpf1lOlq-7" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;AU LA MAIN&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Vous affronter le brigand a l&#39;épée et le brigand avec sa petite dague perd par logique&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="690" width="280" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;rounded=0;curved=0;" parent="1" source="oOupR8y01HN1Jpf1lOlq-8" target="7" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="110" y="600"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="9" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;rounded=0;curved=0;" parent="1" source="oOupR8y01HN1Jpf1lOlq-8" target="6" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="110" y="600"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="oOupR8y01HN1Jpf1lOlq-8" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;L&#39;ORC&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Le jeune homme vous accompagne vers l&#39;orc et vous lui faite face&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry y="460" width="220" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="oOupR8y01HN1Jpf1lOlq-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oOupR8y01HN1Jpf1lOlq-9" target="oOupR8y01HN1Jpf1lOlq-21" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="410" y="400"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="oOupR8y01HN1Jpf1lOlq-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oOupR8y01HN1Jpf1lOlq-9" target="oOupR8y01HN1Jpf1lOlq-22" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="410" y="400"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="oOupR8y01HN1Jpf1lOlq-9" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;LA RENCONTRE&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Vous faites la rencontre d&#39;un jeune homme, il vous missionne de tuer l&#39;orc qui a détruit sa maison&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="255" y="250" width="300" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="oOupR8y01HN1Jpf1lOlq-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oOupR8y01HN1Jpf1lOlq-14" target="oOupR8y01HN1Jpf1lOlq-9" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="oOupR8y01HN1Jpf1lOlq-14" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Se diriger vers les ruines&amp;nbsp;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="365" y="130" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="oOupR8y01HN1Jpf1lOlq-19" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;SUITE EN FORÊT&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Qu&#39;est que cette forêt vous reserve encore&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="405" y="940" width="190" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="oOupR8y01HN1Jpf1lOlq-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oOupR8y01HN1Jpf1lOlq-21" target="oOupR8y01HN1Jpf1lOlq-8" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="oOupR8y01HN1Jpf1lOlq-21" value="Accepter sa mission" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="70" y="360" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="oOupR8y01HN1Jpf1lOlq-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oOupR8y01HN1Jpf1lOlq-22" target="oOupR8y01HN1Jpf1lOlq-3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="oOupR8y01HN1Jpf1lOlq-22" value="Refuser sa mission&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="590" y="360" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="oOupR8y01HN1Jpf1lOlq-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oOupR8y01HN1Jpf1lOlq-30" target="oOupR8y01HN1Jpf1lOlq-7" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="oOupR8y01HN1Jpf1lOlq-30" value="Affronter le brigand" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="460" y="578" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="oOupR8y01HN1Jpf1lOlq-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oOupR8y01HN1Jpf1lOlq-31" target="oOupR8y01HN1Jpf1lOlq-5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="oOupR8y01HN1Jpf1lOlq-31" value="&lt;span&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Prendre la fuite&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=#432D57;" parent="1" vertex="1">
+                    <mxGeometry x="745" y="578" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3" target="oOupR8y01HN1Jpf1lOlq-19" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Vous continuer votre route&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008A00;" parent="1" vertex="1">
+                    <mxGeometry x="460" y="820" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6" target="oOupR8y01HN1Jpf1lOlq-4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Tendre un piège" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="195" y="560" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7" target="oOupR8y01HN1Jpf1lOlq-6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="L&#39;affronter en face&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="-60" y="560" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="20" target="22" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 14px;&quot;&gt;Le jeune homme vous remercie&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008A00;" parent="1" vertex="1">
+                    <mxGeometry x="180" y="820" width="110" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;VERS LE ROYAUME&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Vous décidez d&#39;accompagenr le jeune homme vers le royame&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="108.75" y="980" width="252.5" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="Recommencer" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+                    <mxGeometry x="-60" y="835" width="80" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
